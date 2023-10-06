@@ -1,29 +1,29 @@
 <!doctype html>
 <html lang="en-US">
 
-<!-- Mirrored from tykit.rometheme.pro/taxation/template-kit/faqs/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 00:18:04 GMT -->
+<!-- Mirrored from tykit.rometheme.pro/taxation/template-kit/contact/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 00:18:21 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PCHJ6PGG9J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-PCHJ6PGG9J');
-</script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PCHJ6PGG9J"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-PCHJ6PGG9J');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Client Testimony&#8217;s &#8211; Taxation</title>
+    <title>Contact Us &#8211; Taxation</title>
     <meta name='robots' content='max-image-preview:large' />
-    <link rel="alternate" type="application/rss+xml" title="Taxation &raquo; Feed" href="../../feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Taxation &raquo; Feed" href="feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="Taxation &raquo; Comments Feed"
-        href="../../comments/feed/index.html" />
+        href="comments/feed/index.html" />
     <script>
         window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/tykit.rometheme.pro\/taxation\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3" } };
         /*! This file is auto-generated */
@@ -43,8 +43,8 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css'
-        href='../../wp-includes/css/dist/block-library/style.minf801.css?ver=6.3' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.minf801.css?ver=6.3'
+        media='all' />
     <style id='classic-theme-styles-inline-css'>
         /*! This file is auto-generated */
         .wp-block-button__link {
@@ -430,62 +430,59 @@
         }
     </style>
     <link rel='stylesheet' id='template-kit-export-css'
-        href='../../wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min365c.css?ver=1.0.21'
+        href='wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min365c.css?ver=1.0.21'
         media='all' />
-    <link rel='stylesheet' id='hello-elementor-css'
-        href='../../wp-content/themes/hello-elementor/style.min1102.css?ver=2.8.1' media='all' />
+    <link rel='stylesheet' id='hello-elementor-css' href='wp-content/themes/hello-elementor/style.min1102.css?ver=2.8.1'
+        media='all' />
     <link rel='stylesheet' id='hello-elementor-theme-style-css'
-        href='../../wp-content/themes/hello-elementor/theme.min1102.css?ver=2.8.1' media='all' />
+        href='wp-content/themes/hello-elementor/theme.min1102.css?ver=2.8.1' media='all' />
     <link rel='stylesheet' id='elementor-frontend-css'
-        href='../../wp-content/plugins/elementor/assets/css/frontend-lite.minb73d.css?ver=3.15.3' media='all' />
+        href='wp-content/plugins/elementor/assets/css/frontend-lite.minb73d.css?ver=3.15.3' media='all' />
     <link rel='stylesheet' id='elementor-post-4-css'
-        href='../../wp-content/uploads/sites/107/elementor/css/post-4a3f9.css?ver=1687814847' media='all' />
+        href='wp-content/uploads/sites/107/elementor/css/post-4a3f9.css?ver=1687814847' media='all' />
     <link rel='stylesheet' id='elementor-icons-css'
-        href='../../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind618.css?ver=5.21.0'
-        media='all' />
+        href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind618.css?ver=5.21.0' media='all' />
     <link rel='stylesheet' id='swiper-css'
-        href='../../wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' media='all' />
+        href='wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' media='all' />
     <link rel='stylesheet' id='elementor-pro-css'
-        href='../../wp-content/plugins/elementor-pro/assets/css/frontend-lite.min2e9d.css?ver=3.13.2' media='all' />
-    <link rel='stylesheet' id='elementor-post-552-css'
-        href='../../wp-content/uploads/sites/107/elementor/css/post-5525cf5.css?ver=1688086466' media='all' />
+        href='wp-content/plugins/elementor-pro/assets/css/frontend-lite.min2e9d.css?ver=3.13.2' media='all' />
+    <link rel='stylesheet' id='elementor-post-586-css'
+        href='wp-content/uploads/sites/107/elementor/css/post-586cb31.css?ver=1687889105' media='all' />
     <link rel='stylesheet' id='elementor-post-471-css'
-        href='../../wp-content/uploads/sites/107/elementor/css/post-471a3f9.css?ver=1687814847' media='all' />
+        href='wp-content/uploads/sites/107/elementor/css/post-471a3f9.css?ver=1687814847' media='all' />
     <link rel='stylesheet' id='elementor-post-429-css'
-        href='../../wp-content/uploads/sites/107/elementor/css/post-429a3f9.css?ver=1687814847' media='all' />
+        href='wp-content/uploads/sites/107/elementor/css/post-429a3f9.css?ver=1687814847' media='all' />
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.3'
         media='all' />
     <link rel='stylesheet' id='elementor-icons-shared-0-css'
-        href='../../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
+        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='../../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
-        media='all' />
+        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='../../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
-        media='all' />
+        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' media='all' />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <script src='../../wp-includes/js/jquery/jquery.min3088.js?ver=3.7.0' id='jquery-core-js'></script>
-    <script src='../../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1' id='jquery-migrate-js'></script>
+    <script src='wp-includes/js/jquery/jquery.min3088.js?ver=3.7.0' id='jquery-core-js'></script>
+    <script src='wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1' id='jquery-migrate-js'></script>
     <script
-        src='../../wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min365c.js?ver=1.0.21'
+        src='wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min365c.js?ver=1.0.21'
         id='template-kit-export-js'></script>
-    <link rel="https://api.w.org/" href="../../wp-json/index.html" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
+    <link rel="https://api.w.org/" href="wp-json/index.html" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
     <meta name="generator" content="WordPress 6.3" />
     <link rel="canonical" href="index.html" />
-    <link rel='shortlink' href='../../index5195.html?p=552' />
+    <link rel='shortlink' href='index0ced.html?p=586' />
     <link rel="alternate" type="application/json+oembed"
-        href="../../wp-json/oembed/1.0/embed8f1a.json?url=https%3A%2F%2Ftykit.rometheme.pro%2Ftaxation%2Ftemplate-kit%2Ffaqs%2F" />
+        href="wp-json/oembed/1.0/embed8ad5.json?url=https%3A%2F%2Ftykit.rometheme.pro%2Ftaxation%2Ftemplate-kit%2Fcontact%2F" />
     <link rel="alternate" type="text/xml+oembed"
-        href="../../wp-json/oembed/1.0/embed01a3?url=https%3A%2F%2Ftykit.rometheme.pro%2Ftaxation%2Ftemplate-kit%2Ffaqs%2F&amp;format=xml" />
+        href="wp-json/oembed/1.0/embed1261?url=https%3A%2F%2Ftykit.rometheme.pro%2Ftaxation%2Ftemplate-kit%2Fcontact%2F&amp;format=xml" />
     <meta name="generator"
         content="Elementor 3.15.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 </head>
 
 <body
-    class="envato_tk_templates-template envato_tk_templates-template-elementor_header_footer single single-envato_tk_templates postid-552 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-552">
+    class="envato_tk_templates-template envato_tk_templates-template-elementor_header_footer single single-envato_tk_templates postid-586 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-586">
 
 
     <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
@@ -537,7 +534,7 @@
                             data-widget_type="nav-menu.default">
                             <div class="elementor-widget-container">
                                 <link rel="stylesheet"
-                                    href="../../wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">
+                                    href="wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">
                                 <nav
                                     class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
                                     <ul id="menu-1-efc9684" class="elementor-nav-menu">
@@ -551,7 +548,7 @@
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="TaxServices.html" class="elementor-item">Tax Services</a>
+                                            <a href="TaxServices.php" class="elementor-item">Tax Services</a>
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
@@ -562,7 +559,7 @@
 
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-469">
-                                            <a href="Contact.html" class="elementor-item">Contact Us</a>
+                                            <a href="Contact.php" class="elementor-item">Contact Us</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -590,7 +587,7 @@
 
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="TaxServices.html" class="elementor-item" tabindex="-1">Tax
+                                            <a href="TaxServices.php" class="elementor-item" tabindex="-1">Tax
                                                 Services</a>
                                         </li>
                                         <li
@@ -601,7 +598,7 @@
 
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="Contact.html" class="elementor-item" tabindex="-1">Contact Us</a>
+                                            <a href="Contact.php" class="elementor-item" tabindex="-1">Contact Us</a>
                                         </li>
 
                                     </ul>
@@ -630,18 +627,18 @@
             </div>
         </section>
     </header>
-    <div data-elementor-type="wp-post" data-elementor-id="552" class="elementor elementor-552">
+    <div data-elementor-type="wp-post" data-elementor-id="586" class="elementor elementor-586">
         <!-- <section
-            class="elementor-section elementor-top-section elementor-element elementor-element-f0b7c64 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle"
-            data-id="f0b7c64" data-element_type="section"
+            class="elementor-section elementor-top-section elementor-element elementor-element-815b32e elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle"
+            data-id="815b32e" data-element_type="section"
             data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="elementor-background-overlay"></div>
             <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b0eb2d3"
-                    data-id="b0eb2d3" data-element_type="column">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ec17b8e"
+                    data-id="ec17b8e" data-element_type="column">
                     <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-d69f452 elementor-widget elementor-widget-heading"
-                            data-id="d69f452" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-element elementor-element-38fabca elementor-widget elementor-widget-heading"
+                            data-id="38fabca" data-element_type="widget" data-widget_type="heading.default">
                             <div class="elementor-widget-container">
                                 <style>
                                     /*! elementor - v3.15.0 - 20-08-2023 */
@@ -677,11 +674,11 @@
                                         font-size: 59px
                                     }
                                 </style>
-                                <h1 class="elementor-heading-title elementor-size-default">Client Testimony</h1>
+                                <h1 class="elementor-heading-title elementor-size-default">Contact</h1>
                             </div>
                         </div>
-                        <div class="elementor-element elementor-element-73dcc02 elementor-widget elementor-widget-text-editor"
-                            data-id="73dcc02" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-element elementor-element-3bd6afd elementor-widget elementor-widget-text-editor"
+                            data-id="3bd6afd" data-element_type="widget" data-widget_type="text-editor.default">
                             <div class="elementor-widget-container">
                                 <style>
                                     /*! elementor - v3.15.0 - 20-08-2023 */
@@ -716,7 +713,7 @@
                                         display: inline-block
                                     }
                                 </style>
-                                <p><a href="#">Home</a> &gt; Client Testimony&#8217;</p>
+                                <p><a href="#">Home</a> &gt; Contact</p>
                             </div>
                         </div>
                     </div>
@@ -727,314 +724,508 @@
             <img src="images/image.png" alt="">
         </section>
         <section
-            class="elementor-section elementor-top-section elementor-element elementor-element-b139f42 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-            data-id="b139f42" data-element_type="section">
+            class="elementor-section elementor-top-section elementor-element elementor-element-0702aaf elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+            data-id="0702aaf" data-element_type="section">
             <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d014c42"
-                    data-id="d014c42" data-element_type="column">
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-56de7be"
+                    data-id="56de7be" data-element_type="column">
                     <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-113caea elementor-widget elementor-widget-heading"
-                            data-id="113caea" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-element elementor-element-32975fa elementor-widget elementor-widget-heading"
+                            data-id="32975fa" data-element_type="widget" data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h6 class="elementor-heading-title elementor-size-default"></h6>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-10ae763 elementor-widget elementor-widget-heading"
-                            data-id="10ae763" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">Client Testimony
-                                </h2>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-9e43b51 elementor-widget elementor-widget-text-editor"
-                            data-id="9e43b51" data-element_type="widget" data-widget_type="text-editor.default">
-                            <div class="elementor-widget-container">
-                                <!-- <p>Gamarra, CPA Inc. was established by Mr. Gamarra who specializes in start up planning
-                                    and tax strategies for small businesses and individuals. He is licensed to practice
-                                    in the State of Virginia and California. He is a graduate of John Hopkins University
-                                    and earned his undergrad from George Mason University. Below are key highlights of
-                                    education and license:</p> -->
-                               
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section
-            class="elementor-section elementor-top-section elementor-element elementor-element-008d834 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-            data-id="008d834" data-element_type="section">
-            <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fac976d"
-                    data-id="fac976d" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-480c09d animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
-                            data-id="480c09d" data-element_type="section"
-                            data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
-                            <div class="elementor-container elementor-column-gap-default">
-                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0e73d77"
-                                    data-id="0e73d77" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-2d8bb6d elementor-widget elementor-widget-heading"
-                                            data-id="2d8bb6d" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <h5 class="elementor-heading-title elementor-size-default">Andrew S. -
-                                                    Individual in Arlington, VA</h5>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-7c5beab elementor-widget elementor-widget-text-editor"
-                                            data-id="7c5beab" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <p>I'd like to thank Will for the outstanding part he played for me!! To
-                                                    give some background, my father passed away and we found out the IRS
-                                                    was coming after the estate for over $500,000 in unpaid back taxes.
-                                                    It turns out, he hadn't filed any taxes for the last 12 years of his
-                                                    life. At 25 years old and no idea what I was doing, I was put in
-                                                    contact with Will via a family friend and enlisted his service.
-                                                    After going through all of my late father's records and collecting
-                                                    all of the information needed, Will was able to file all of the tax
-                                                    returns from 2003-2014. After 1.5 years of work on his part (and the
-                                                    IRS "losing" multiple years of the returns we filed that had to be
-                                                    resubmitted) I finally got the call from Will saying that the IRS
-                                                    agreed with our returns and we had zero tax liability whatsoever!!
-                                                    Talk about a weight being lifted off of my shoulders! None of it
-                                                    would have been possible without the diligence Will showed and help
-                                                    he gave me along the way. I would HIGHLY recommend Will to anyone
-                                                    looking for quality tax work!!!!&nbsp;</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-947c7f8 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
-                            data-id="947c7f8" data-element_type="section"
-                            data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:50}">
-                            <div class="elementor-container elementor-column-gap-default">
-                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-36dc7fb"
-                                    data-id="36dc7fb" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-5f1911f elementor-widget elementor-widget-heading"
-                                            data-id="5f1911f" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <h5 class="elementor-heading-title elementor-size-default">Jon S. –
-                                                    Individual in Washington, DC</h5>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-45f3ca5 elementor-widget elementor-widget-text-editor"
-                                            data-id="45f3ca5" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <p>Helpful advice, prompt replies, long-term planning. I hope to keep
-                                                    Gamarra, CPA as my tax accountant. </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-000ece3 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
-                            data-id="000ece3" data-element_type="section"
-                            data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:100}">
-                            <div class="elementor-container elementor-column-gap-default">
-                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8527d38"
-                                    data-id="8527d38" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-feaa08f elementor-widget elementor-widget-heading"
-                                            data-id="feaa08f" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <h5 class="elementor-heading-title elementor-size-default"> Shanna S. –
-                                                    Individual in Concord, CA</h5>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-3c56668 elementor-widget elementor-widget-text-editor"
-                                            data-id="3c56668" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <p>Received a flyer in mail, my husband and I desperately needed our
-                                                    back taxes done, we gave Will a call and I'm so glad that we did, he
-                                                    is very patient and knowledgeable about taxes. He as helped my
-                                                    husband and I get back on track</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </div>
-                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-82fc6e1"
-                    data-id="82fc6e1" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-c6d51d3 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
-                            data-id="c6d51d3" data-element_type="section"
-                            data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:150}">
-                            <div class="elementor-container elementor-column-gap-default">
-                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-701c8a6"
-                                    data-id="701c8a6" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-9e2e625 elementor-widget elementor-widget-heading"
-                                            data-id="9e2e625" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <h5 class="elementor-heading-title elementor-size-default">By Krista H.
-                                                    – Business Owner in Washington, DC</h5>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-37a82a3 elementor-widget elementor-widget-text-editor"
-                                            data-id="37a82a3" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <p> Will has been doing my small business and personal taxes for years.
-                                                    He is quick and proficient in preparing my taxes. There is very
-                                                    little back and forth with him, he asks for exactly the information
-                                                    that he needs and prepares my taxes quickly.
 
-                                                    I also talk to Will whenever I want to start new ventures in my
-                                                    business. He takes his time to ask questions about my business and
-                                                    to answer my questions. His advice is always insightful and honest.
-                                                    His ability to show me the pros and cons of my decisions from a
-                                                    numbers perspective has been invaluable. I am always confident that
-                                                    I am getting an educated and honest answer from Will. I would highly
-                                                    recommend for your small business or personal tax needs.</p>
-                                            </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-c4934a3 elementor-widget elementor-widget-heading"
+                            data-id="c4934a3" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Get In touch</h2>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-f8235df elementor-button-align-stretch elementor-widget elementor-widget-form"
+                            data-id="f8235df" data-element_type="widget"
+                            data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}"
+                            data-widget_type="form.default">
+                            <div class="elementor-widget-container">
+                                <style>
+                                    /*! elementor-pro - v3.13.2 - 22-05-2023 */
+                                    .elementor-button.elementor-hidden,
+                                    .elementor-hidden {
+                                        display: none
+                                    }
+
+                                    .e-form__step {
+                                        width: 100%
+                                    }
+
+                                    .e-form__step:not(.elementor-hidden) {
+                                        display: flex;
+                                        flex-wrap: wrap
+                                    }
+
+                                    .e-form__buttons {
+                                        flex-wrap: wrap
+                                    }
+
+                                    .e-form__buttons,
+                                    .e-form__buttons__wrapper {
+                                        display: flex
+                                    }
+
+                                    .e-form__indicators {
+                                        display: flex;
+                                        justify-content: space-between;
+                                        align-items: center;
+                                        flex-wrap: nowrap;
+                                        font-size: 13px;
+                                        margin-bottom: var(--e-form-steps-indicators-spacing)
+                                    }
+
+                                    .e-form__indicators__indicator {
+                                        display: flex;
+                                        flex-direction: column;
+                                        align-items: center;
+                                        justify-content: center;
+                                        flex-basis: 0;
+                                        padding: 0 var(--e-form-steps-divider-gap)
+                                    }
+
+                                    .e-form__indicators__indicator__progress {
+                                        width: 100%;
+                                        position: relative;
+                                        background-color: var(--e-form-steps-indicator-progress-background-color);
+                                        border-radius: var(--e-form-steps-indicator-progress-border-radius);
+                                        overflow: hidden
+                                    }
+
+                                    .e-form__indicators__indicator__progress__meter {
+                                        width: var(--e-form-steps-indicator-progress-meter-width, 0);
+                                        height: var(--e-form-steps-indicator-progress-height);
+                                        line-height: var(--e-form-steps-indicator-progress-height);
+                                        padding-right: 15px;
+                                        border-radius: var(--e-form-steps-indicator-progress-border-radius);
+                                        background-color: var(--e-form-steps-indicator-progress-color);
+                                        color: var(--e-form-steps-indicator-progress-meter-color);
+                                        text-align: right;
+                                        transition: width .1s linear
+                                    }
+
+                                    .e-form__indicators__indicator:first-child {
+                                        padding-left: 0
+                                    }
+
+                                    .e-form__indicators__indicator:last-child {
+                                        padding-right: 0
+                                    }
+
+                                    .e-form__indicators__indicator--state-inactive {
+                                        color: var(--e-form-steps-indicator-inactive-primary-color, #c2cbd2)
+                                    }
+
+                                    .e-form__indicators__indicator--state-inactive [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none) {
+                                        background-color: var(--e-form-steps-indicator-inactive-secondary-color, #fff)
+                                    }
+
+                                    .e-form__indicators__indicator--state-inactive object,
+                                    .e-form__indicators__indicator--state-inactive svg {
+                                        fill: var(--e-form-steps-indicator-inactive-primary-color, #c2cbd2)
+                                    }
+
+                                    .e-form__indicators__indicator--state-active {
+                                        color: var(--e-form-steps-indicator-active-primary-color, #39b54a);
+                                        border-color: var(--e-form-steps-indicator-active-secondary-color, #fff)
+                                    }
+
+                                    .e-form__indicators__indicator--state-active [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none) {
+                                        background-color: var(--e-form-steps-indicator-active-secondary-color, #fff)
+                                    }
+
+                                    .e-form__indicators__indicator--state-active object,
+                                    .e-form__indicators__indicator--state-active svg {
+                                        fill: var(--e-form-steps-indicator-active-primary-color, #39b54a)
+                                    }
+
+                                    .e-form__indicators__indicator--state-completed {
+                                        color: var(--e-form-steps-indicator-completed-secondary-color, #fff)
+                                    }
+
+                                    .e-form__indicators__indicator--state-completed [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none) {
+                                        background-color: var(--e-form-steps-indicator-completed-primary-color, #39b54a)
+                                    }
+
+                                    .e-form__indicators__indicator--state-completed .e-form__indicators__indicator__label {
+                                        color: var(--e-form-steps-indicator-completed-primary-color, #39b54a)
+                                    }
+
+                                    .e-form__indicators__indicator--state-completed .e-form__indicators__indicator--shape-none {
+                                        color: var(--e-form-steps-indicator-completed-primary-color, #39b54a);
+                                        background-color: initial
+                                    }
+
+                                    .e-form__indicators__indicator--state-completed object,
+                                    .e-form__indicators__indicator--state-completed svg {
+                                        fill: var(--e-form-steps-indicator-completed-secondary-color, #fff)
+                                    }
+
+                                    .e-form__indicators__indicator__icon {
+                                        width: var(--e-form-steps-indicator-padding, 30px);
+                                        height: var(--e-form-steps-indicator-padding, 30px);
+                                        font-size: var(--e-form-steps-indicator-icon-size);
+                                        border-width: 1px;
+                                        border-style: solid;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        overflow: hidden;
+                                        margin-bottom: 10px
+                                    }
+
+                                    .e-form__indicators__indicator__icon img,
+                                    .e-form__indicators__indicator__icon object,
+                                    .e-form__indicators__indicator__icon svg {
+                                        width: var(--e-form-steps-indicator-icon-size);
+                                        height: auto
+                                    }
+
+                                    .e-form__indicators__indicator__icon .e-font-icon-svg {
+                                        height: 1em
+                                    }
+
+                                    .e-form__indicators__indicator__number {
+                                        width: var(--e-form-steps-indicator-padding, 30px);
+                                        height: var(--e-form-steps-indicator-padding, 30px);
+                                        border-width: 1px;
+                                        border-style: solid;
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+                                        margin-bottom: 10px
+                                    }
+
+                                    .e-form__indicators__indicator--shape-circle {
+                                        border-radius: 50%
+                                    }
+
+                                    .e-form__indicators__indicator--shape-square {
+                                        border-radius: 0
+                                    }
+
+                                    .e-form__indicators__indicator--shape-rounded {
+                                        border-radius: 5px
+                                    }
+
+                                    .e-form__indicators__indicator--shape-none {
+                                        border: 0
+                                    }
+
+                                    .e-form__indicators__indicator__label {
+                                        text-align: center
+                                    }
+
+                                    .e-form__indicators__indicator__separator {
+                                        width: 100%;
+                                        height: var(--e-form-steps-divider-width);
+                                        background-color: #babfc5
+                                    }
+
+                                    .e-form__indicators--type-icon,
+                                    .e-form__indicators--type-icon_text,
+                                    .e-form__indicators--type-number,
+                                    .e-form__indicators--type-number_text {
+                                        align-items: flex-start
+                                    }
+
+                                    .e-form__indicators--type-icon .e-form__indicators__indicator__separator,
+                                    .e-form__indicators--type-icon_text .e-form__indicators__indicator__separator,
+                                    .e-form__indicators--type-number .e-form__indicators__indicator__separator,
+                                    .e-form__indicators--type-number_text .e-form__indicators__indicator__separator {
+                                        margin-top: calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)
+                                    }
+
+                                    .elementor-field-type-hidden {
+                                        display: none
+                                    }
+
+                                    .elementor-field-type-html {
+                                        display: inline-block
+                                    }
+
+                                    .elementor-login .elementor-lost-password,
+                                    .elementor-login .elementor-remember-me {
+                                        font-size: .85em
+                                    }
+
+                                    .elementor-field-type-recaptcha_v3 .elementor-field-label {
+                                        display: none
+                                    }
+
+                                    .elementor-field-type-recaptcha_v3 .grecaptcha-badge {
+                                        z-index: 1
+                                    }
+
+                                    .elementor-button .elementor-form-spinner {
+                                        order: 3
+                                    }
+
+                                    .elementor-form .elementor-button>span {
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center
+                                    }
+
+                                    .elementor-form .elementor-button .elementor-button-text {
+                                        white-space: normal;
+                                        flex-grow: 0
+                                    }
+
+                                    .elementor-form .elementor-button svg {
+                                        height: auto
+                                    }
+
+                                    .elementor-form .elementor-button .e-font-icon-svg {
+                                        height: 1em
+                                    }
+
+                                    .elementor-select-wrapper .select-caret-down-wrapper {
+                                        position: absolute;
+                                        top: 50%;
+                                        transform: translateY(-50%);
+                                        inset-inline-end: 10px;
+                                        pointer-events: none;
+                                        font-size: 11px
+                                    }
+
+                                    .elementor-select-wrapper .select-caret-down-wrapper svg {
+                                        display: unset;
+                                        width: 1em;
+                                        aspect-ratio: unset;
+                                        fill: currentColor
+                                    }
+
+                                    .elementor-select-wrapper .select-caret-down-wrapper i {
+                                        font-size: 19px;
+                                        line-height: 2
+                                    }
+
+                                    .elementor-select-wrapper.remove-before:before {
+                                        content: "" !important
+                                    }
+                                </style>
+                                <!-- <form action="save.php" class="elementor-form" method="post" name="Contact Form">
+                                    <input type="hidden" name="post_id" value="586" />
+                                    <input type="hidden" name="form_id" value="f8235df" />
+                                    <input type="hidden" name="referer_title" value="Contact" />
+
+                                    <input type="hidden" name="queried_id" value="586" />
+
+                                    <div class="elementor-form-fields-wrapper elementor-labels-above">
+                                        <div
+                                            class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50">
+                                            <label for="form-field-name" class="elementor-field-label">
+                                                First Name </label>
+                                            <input size="1" type="text" name="fname" id="form-field-name"
+                                                class="elementor-field elementor-size-sm  elementor-field-textual"
+                                                placeholder="Firs Name">
+                                        </div>
+                                        <div
+                                            class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_7249dc0 elementor-col-50">
+                                            <label for="form-field-field_7249dc0" class="elementor-field-label">
+                                                Last name </label>
+                                            <input size="1" type="text" name="lname"
+                                                id="form-field-field_7249dc0"
+                                                class="elementor-field elementor-size-sm  elementor-field-textual"
+                                                placeholder="Last Name">
+                                        </div>
+                                        <div
+                                            class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+                                            <label for="form-field-email" class="elementor-field-label">
+                                                Email </label>
+                                            <input size="1" type="email" name="email" id="form-field-email"
+                                                class="elementor-field elementor-size-sm  elementor-field-textual"
+                                                placeholder="Example : Hello@awesomesite.com" required="required"
+                                                aria-required="true">
+                                        </div>
+                                        <div
+                                            class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+                                            <label for="form-field-message" class="elementor-field-label">
+                                                Message </label>
+                                            <textarea class="elementor-field-textual elementor-field  elementor-size-sm"
+                                                name="message" id="form-field-message" rows="4"
+                                                placeholder="Message"></textarea>
+                                        </div>
+                                        <div
+                                            class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
+                                            <button type="submit"
+                                                class="elementor-button elementor-size-sm elementor-animation-grow">
+                                                <span>
+                                                    <span class=" elementor-button-icon">
+                                                    </span>
+                                                    <span class="elementor-button-text">Submit Now</span>
+                                                </span>
+                                            </button>
                                         </div>
                                     </div>
-                                </div>
+                                </form> -->
+                                <style>
+                                    input[type="submit"] {
+                                        background-color: yellow;
+                                        color: black;
+                                        /* You can adjust the text color as needed for visibility */
+                                        border: none;
+                                        padding: 10px 20px;
+                                        /* Adjust padding as needed */
+                                        cursor: pointer;
+                                    }
+                                </style>
+                                <div id="respond" class="comment-respond">
+                                    <h2 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow"
+                                                id="cancel-comment-reply-link" href="index.html#respond"
+                                                style="display:none;">Cancel
+                                                reply</a></small></h2>
+                                    <form action="save.php" method="post" id="commentform" class="comment-form"
+                                        novalidate>
+                                        <p class="comment-notes"><span id="email-notes"></span> <span class=""> <span
+                                                    class="required"></span></span></p>
+
+                                        <p class="comment-form-author"><label for="author">Name <span
+                                                    class="required">*</span></label> <input id="author" name="name"
+                                                type="text" value="" size="30" maxlength="245" autocomplete="name"
+                                                required /></p>
+                                        <p class="comment-form-email"><label for="email">Email <span
+                                                    class="required">*</span></label> <input id="email" name="email"
+                                                type="email" value="" size="30" maxlength="100"
+                                                aria-describedby="email-notes" autocomplete="email" required /></p>
+                                        <p class="comment-form-comment"><label for="comment">Message <span
+                                                    class="required">*</span></label> <textarea id="comment"
+                                                name="message" cols="45" rows="8" maxlength="65525" required></textarea>
+                                        </p>
+
+                                        <input type="submit" value="Submit">
+                                        <!-- <p class="comment-form-url"><label for="url">Website</label> <input id="url"
+                                                name="url" type="url" value="" size="30" maxlength="200"
+                                                autocomplete="url" /></p> -->
+                                        <!-- <p class="comment-form-cookies-consent"><input
+                                                id="wp-comment-cookies-consent" name="wp-comment-cookies-consent"
+                                                type="checkbox" value="yes" /> <label
+                                                for="wp-comment-cookies-consent">Save my name, email, and website in
+                                                this browser for the next time I comment.</label></p> -->
+                                        <!-- <p class="form-submit"><input name="submit" type="submit" id="submit"
+                                                class="submit" value="Submit" /> <input type='hidden'
+                                                name='comment_post_ID' value='404' id='comment_post_ID' /> -->
+                                        <!-- <input type='hidden' name='' id='comment_parent'
+                                                value='0' /> -->
+                                        </p>
+                                    </form>
+                                </div><!-- #respond -->
                             </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-00c7d76 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
-                            data-id="00c7d76" data-element_type="section"
-                            data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:250}">
-                            <div class="elementor-container elementor-column-gap-default">
-                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0abdf44"
-                                    data-id="0abdf44" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-2227445 elementor-widget elementor-widget-heading"
-                                            data-id="2227445" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <h5 class="elementor-heading-title elementor-size-default">Miriam S. –
-                                                    Individual in Alexandria, VA</h5>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-3f0354d elementor-widget elementor-widget-text-editor"
-                                            data-id="3f0354d" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <p> My husband and I went to see Will for the first time to do our taxes
-                                                    for this tax season. We have had some tax issues in the past, so we
-                                                    decided that going to see a CPA would maybe be in our best interest.
-                                                    He seemed very knowledgeable and was very friendly. The only thing
-                                                    that I am taking a star away for is the fee that we paid! I was
-                                                    shocked at the fee he told us when we were done. $$$ Our taxes were
-                                                    really straight forward. Not a lot of write-offs, etc. Maybe we
-                                                    should have researched that before going into the appointment.
-                                                    Pretty expensive for an average household.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section
-                            class="elementor-section elementor-inner-section elementor-element elementor-element-61eee4e animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
-                            data-id="61eee4e" data-element_type="section"
-                            data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:300}">
-                            <div class="elementor-container elementor-column-gap-default">
-                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4bf1cc3"
-                                    data-id="4bf1cc3" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                        <div class="elementor-element elementor-element-1a741e6 elementor-widget elementor-widget-heading"
-                                            data-id="1a741e6" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <h5 class="elementor-heading-title elementor-size-default">Ingrid Y. -
-                                                    Individual in San Francisco, CA</h5>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-29dca78 elementor-widget elementor-widget-text-editor"
-                                            data-id="29dca78" data-element_type="widget"
-                                            data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <p>He is very knowledgeable, works proficiently, and has very
-                                                    professional services. He took time to answer all my questions.
-                                                    Highly recommended..&nbsp;</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </section>
-        <section
-            class="elementor-section elementor-top-section elementor-element elementor-element-3011a56 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-            data-id="3011a56" data-element_type="section"
-            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-            <div class="elementor-background-overlay"></div>
-            <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-027c707 animated-slow elementor-invisible"
-                    data-id="027c707" data-element_type="column"
-                    data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d82a528"
+                    data-id="d82a528" data-element_type="column">
                     <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-4456b6e elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline"
-                            data-id="4456b6e" data-element_type="widget"
-                            data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;comprehensive&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}"
-                            data-widget_type="animated-headline.default">
+                        <div class="elementor-element elementor-element-0ba7bb5 elementor-widget elementor-widget-text-editor"
+                            data-id="0ba7bb5" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+
+
+                            </div>
+                        </div>
+                        <!-- <div class="elementor-element elementor-element-8567425 elementor-view-stacked elementor-position-left elementor-mobile-position-left elementor-widget__width-initial elementor-shape-circle elementor-vertical-align-top elementor-widget elementor-widget-icon-box"
+                            data-id="8567425" data-element_type="widget" data-widget_type="icon-box.default">
                             <div class="elementor-widget-container">
                                 <link rel="stylesheet"
-                                    href="../../wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css">
-                                <h3 class="elementor-headline">
-                                    <span class="elementor-headline-plain-text elementor-headline-text-wrapper">Your
-                                        partner </span>
-                                    <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
-                                        <span
-                                            class="elementor-headline-dynamic-text elementor-headline-text-active">comprehensive</span>
-                                    </span>
-                                    <span class="elementor-headline-plain-text elementor-headline-text-wrapper">tax
-                                        solutions.</span>
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-6cd7245 elementor-widget elementor-widget-text-editor"
-                            data-id="6cd7245" data-element_type="widget" data-widget_type="text-editor.default">
-                            <div class="elementor-widget-container">
-                                <!-- <p>Ut mattis ex non viverra aliquam. Morbi ut arcu leo. Praesent imperdiet vel sapien ut
-                                    congue. Phasellus at dapibus ligula. Proin molestie viverra magna non viverra.
-                                    Praesent quis turpis nisl. </p> -->
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-d0ef61f elementor-align-center elementor-widget elementor-widget-button"
-                            data-id="d0ef61f" data-element_type="widget" data-widget_type="button.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-button-wrapper">
-                                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow"
-                                        href="#">
-                                        <span class="elementor-button-content-wrapper">
-                                            <span class="elementor-button-icon elementor-align-icon-left">
-                                                <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-                                            <span class="elementor-button-text">Call us now</span>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
+                                    href="wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">
+                                <div class="elementor-icon-box-wrapper">
+                                    <div class="elementor-icon-box-icon">
+                                        <span class="elementor-icon elementor-animation-">
+                                            <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
+                                    </div>
+                                     <div class="elementor-icon-box-content">
+                                        <h3 class="elementor-icon-box-title">
+                                            <span>
+                                                phone </span>
+                                        </h3>
+                                        <p class="elementor-icon-box-description">
+                                            925-954-4441 </p>
+                                    </div> -->
                     </div>
                 </div>
             </div>
-        </section>
+            <!-- <div class="elementor-element elementor-element-5e0c11c elementor-view-stacked elementor-position-left elementor-mobile-position-left elementor-vertical-align-middle elementor-widget__width-initial elementor-shape-circle elementor-widget elementor-widget-icon-box"
+                            data-id="5e0c11c" data-element_type="widget" data-widget_type="icon-box.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-icon-box-wrapper">
+                                    <div class="elementor-icon-box-icon">
+                                        <span class="elementor-icon elementor-animation-">
+                                            <i aria-hidden="true" class="fas fa-envelope"></i> </span>
+                                    </div>
+                                     <div class="elementor-icon-box-content">
+                                        <h3 class="elementor-icon-box-title">
+                                            <span>
+                                                Email </span>
+                                        </h3>
+                                        <p class="elementor-icon-box-description">
+                                            gamarra@taxcompliancecpa.com </p>
+                                    </div> -->
+            <!-- </div> -->
+            <!-- </div> -->
+            <!-- </div>  -->
+            <div class="elementor-element elementor-element-0000fd7 elementor-widget elementor-widget-google_maps"
+                data-id="0000fd7" data-element_type="widget" data-widget_type="google_maps.default">
+                <div class="elementor-widget-container">
+                    <style>
+                        /*! elementor - v3.15.0 - 20-08-2023 */
+                        .elementor-widget-google_maps .elementor-widget-container {
+                            overflow: hidden
+                        }
+
+                        .elementor-widget-google_maps .elementor-custom-embed {
+                            line-height: 0
+                        }
+
+                        .elementor-widget-google_maps iframe {
+                            height: 300px
+                        }
+                    </style>
+
+                    <style>
+                        .mapouter {
+                            position: relative;
+                            text-align: right;
+                            width: 100%;
+                            height: 400px;
+                        }
+
+                        .gmap_canvas {
+                            overflow: hidden;
+                            background: none !important;
+                            width: 100%;
+                            height: 400px;
+                        }
+
+                        .gmap_iframe {
+                            width: 100% !important;
+                            height: 400px !important;
+                        }
+                    </style>
+                </div>
+                <!-- <div class="mapouter">
+                    <div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0"
+                            marginwidth="0"
+                            src="https://maps.google.com/maps?hl=en&amp;q=Pleasant Hill, CA Office: 70 Doray Drive, Suite 15A, Pleasant Hill, CA 94523 &amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a
+                            href="https://embed-googlemap.com">embed-googlemap.com</a></div>
+                </div> -->
+                <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no"
+                        marginheight="0" marginwidth="0"
+                        src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=70%20Doray%20Drive,%20Suite%2015A,%20Pleasant%20Hill,%20CA+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a
+                            href="https://www.maps.ie/population/">Population mapping</a></iframe></div>
+            </div>
+
+    </div>
+    </div>
+    </div>
+    </section>
     </div>
     <footer data-elementor-type="footer" data-elementor-id="429"
         class="elementor elementor-429 elementor-location-footer">
@@ -1092,33 +1283,38 @@
                                             data-widget_type="icon-list.default">
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
-													<li class="elementor-icon-list-item">
-														<span class="elementor-icon-list-icon">
-															<i aria-hidden="true" class="fas fa-check"></i> </span>
+                                                    <li class="elementor-icon-list-item">
+                                                        <span class="elementor-icon-list-icon">
+                                                            <i aria-hidden="true" class="fas fa-check"></i> </span>
 
-														<span class="elementor-icon-list-text"><a href="index.html">Home</a></span>
-													</li>
-													<li class="elementor-icon-list-item">
-														<span class="elementor-icon-list-icon">
-															<i aria-hidden="true" class="fas fa-check"></i> </span>
-														<span class="elementor-icon-list-text"><a href="About.html">About Us</a></span>
-													</li>
-													<li class="elementor-icon-list-item">
-														<span class="elementor-icon-list-icon">
-															<i aria-hidden="true" class="fas fa-check"></i> </span>
-														<span class="elementor-icon-list-text"><a href="TaxServices.html">Tax Services</a></span>
-													</li>
-													<li class="elementor-icon-list-item">
-														<span class="elementor-icon-list-icon">
-															<i aria-hidden="true" class="fas fa-check"></i> </span>
-														<span class="elementor-icon-list-text"><a href="ClientTestimony.html">Client Testimony</a></span>
-													</li>
-													<li class="elementor-icon-list-item">
-														<span class="elementor-icon-list-icon">
-															<i aria-hidden="true" class="fas fa-check"></i> </span>
-														<span class="elementor-icon-list-text"><a href="Contact.html">Contact Us</a></span>
-													</li>
-												</ul>
+                                                        <span class="elementor-icon-list-text"><a
+                                                                href="index.html">Home</a></span>
+                                                    </li>
+                                                    <li class="elementor-icon-list-item">
+                                                        <span class="elementor-icon-list-icon">
+                                                            <i aria-hidden="true" class="fas fa-check"></i> </span>
+                                                        <span class="elementor-icon-list-text"><a
+                                                                href="About.html">About Us</a></span>
+                                                    </li>
+                                                    <li class="elementor-icon-list-item">
+                                                        <span class="elementor-icon-list-icon">
+                                                            <i aria-hidden="true" class="fas fa-check"></i> </span>
+                                                        <span class="elementor-icon-list-text"><a
+                                                                href="TaxServices.php">Tax Services</a></span>
+                                                    </li>
+                                                    <li class="elementor-icon-list-item">
+                                                        <span class="elementor-icon-list-icon">
+                                                            <i aria-hidden="true" class="fas fa-check"></i> </span>
+                                                        <span class="elementor-icon-list-text"><a
+                                                                href="ClientTestimony.html">Client Testimony</a></span>
+                                                    </li>
+                                                    <li class="elementor-icon-list-item">
+                                                        <span class="elementor-icon-list-icon">
+                                                            <i aria-hidden="true" class="fas fa-check"></i> </span>
+                                                        <span class="elementor-icon-list-text"><a
+                                                                href="Contact.php">Contact Us</a></span>
+                                                    </li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
@@ -1179,7 +1375,7 @@
                                             data-id="1833593" data-element_type="widget"
                                             data-widget_type="icon-list.default">
                                             <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
+                                                <ul class="elementor-icon-list-items elementor-inline-items ">
                                                     <li class="elementor-icon-list-item elementor-inline-item">
                                                         <span class="elementor-icon-list-icon">
                                                             <i aria-hidden="true" class="fas fa-map-marker-alt"></i>
@@ -1224,7 +1420,7 @@
 
                                                     .footer-style>li {
                                                         list-style: none;
-                                                       
+
 
                                                     }
 
@@ -1572,7 +1768,8 @@
                                             data-id="82912bb" data-element_type="widget"
                                             data-widget_type="icon-list.default">
                                             <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items footer-style" style="justify-content: end;">
+                                                <ul class="elementor-icon-list-items elementor-inline-items footer-style"
+                                                    style="justify-content: end;">
                                                     <li class="elementor-icon-list-item elementor-inline-item">
                                                         <a href="#">
 
@@ -1599,24 +1796,23 @@
     </footer>
 
     <link rel='stylesheet' id='e-animations-css'
-        href='../../wp-content/plugins/elementor/assets/lib/animations/animations.minb73d.css?ver=3.15.3' media='all' />
-    <script src='../../wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0'
+        href='wp-content/plugins/elementor/assets/lib/animations/animations.minb73d.css?ver=3.15.3' media='all' />
+    <script src='wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0'
         id='hello-theme-frontend-js'></script>
-    <script src='../../wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1'
+    <script src='wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1'
         id='smartmenus-js'></script>
-    <script src='../../wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min2e9d.js?ver=3.13.2'
+    <script src='wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min2e9d.js?ver=3.13.2'
         id='elementor-pro-webpack-runtime-js'></script>
-    <script src='../../wp-content/plugins/elementor/assets/js/webpack.runtime.minb73d.js?ver=3.15.3'
+    <script src='wp-content/plugins/elementor/assets/js/webpack.runtime.minb73d.js?ver=3.15.3'
         id='elementor-webpack-runtime-js'></script>
-    <script src='../../wp-content/plugins/elementor/assets/js/frontend-modules.minb73d.js?ver=3.15.3'
+    <script src='wp-content/plugins/elementor/assets/js/frontend-modules.minb73d.js?ver=3.15.3'
         id='elementor-frontend-modules-js'></script>
-    <script src='../../wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2'
-        id='wp-polyfill-inert-js'></script>
-    <script src='../../wp-includes/js/dist/vendor/regenerator-runtime.min8fa4.js?ver=0.13.11'
+    <script src='wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+    <script src='wp-includes/js/dist/vendor/regenerator-runtime.min8fa4.js?ver=0.13.11'
         id='regenerator-runtime-js'></script>
-    <script src='../../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
-    <script src='../../wp-includes/js/dist/hooks.min2ebd.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
-    <script src='../../wp-includes/js/dist/i18n.minf92f.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'></script>
+    <script src='wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
+    <script src='wp-includes/js/dist/hooks.min2ebd.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
+    <script src='wp-includes/js/dist/i18n.minf92f.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'></script>
     <script id="wp-i18n-js-after">
         wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
     </script>
@@ -1626,24 +1822,24 @@
             "facebook_sdk": { "lang": "en_US", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/tykit.rometheme.pro\/taxation\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" }
         };
     </script>
-    <script src='../../wp-content/plugins/elementor-pro/assets/js/frontend.min2e9d.js?ver=3.13.2'
+    <script src='wp-content/plugins/elementor-pro/assets/js/frontend.min2e9d.js?ver=3.13.2'
         id='elementor-pro-frontend-js'></script>
-    <script src='../../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'
+    <script src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'
         id='elementor-waypoints-js'></script>
-    <script src='../../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+    <script src='wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
     <script id="elementor-frontend-js-before">
         var elementorFrontendConfig = {
             "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselWrapperAriaLabel": "Carousel | Horizontal scrolling: Arrow Left & Right", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } } },
-            "version": "3.15.3", "is_static": false, "experimentalFeatures": { "e_dom_optimization": true, "e_optimized_assets_loading": true, "e_optimized_css_loading": true, "additional_custom_breakpoints": true, "theme_builder_v2": true, "hello-theme-header-footer": true, "landing-pages": true, "page-transitions": true, "notes": true, "loop": true, "form-submissions": true, "e_scroll_snap": true }, "urls": { "assets": "https:\/\/tykit.rometheme.pro\/taxation\/wp-content\/plugins\/elementor\/assets\/" }, "swiperClass": "swiper-container", "settings": { "page": [], "editorPreferences": [] }, "kit": { "body_background_background": "classic", "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description", "hello_header_logo_type": "logo", "hello_header_menu_layout": "horizontal", "hello_footer_logo_type": "logo" }, "post": { "id": 552, "title": "FAQ%27s%20%E2%80%93%20Taxation", "excerpt": "", "featuredImage": "https:\/\/tykit.rometheme.pro\/taxation\/wp-content\/uploads\/sites\/107\/2023\/03\/FAQ.jpg" }
+            "version": "3.15.3", "is_static": false, "experimentalFeatures": { "e_dom_optimization": true, "e_optimized_assets_loading": true, "e_optimized_css_loading": true, "additional_custom_breakpoints": true, "theme_builder_v2": true, "hello-theme-header-footer": true, "landing-pages": true, "page-transitions": true, "notes": true, "loop": true, "form-submissions": true, "e_scroll_snap": true }, "urls": { "assets": "https:\/\/tykit.rometheme.pro\/taxation\/wp-content\/plugins\/elementor\/assets\/" }, "swiperClass": "swiper-container", "settings": { "page": [], "editorPreferences": [] }, "kit": { "body_background_background": "classic", "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description", "hello_header_logo_type": "logo", "hello_header_menu_layout": "horizontal", "hello_footer_logo_type": "logo" }, "post": { "id": 586, "title": "Contact%20%E2%80%93%20Taxation", "excerpt": "", "featuredImage": "https:\/\/tykit.rometheme.pro\/taxation\/wp-content\/uploads\/sites\/107\/2023\/03\/Contact.jpg" }
         };
     </script>
-    <script src='../../wp-content/plugins/elementor/assets/js/frontend.minb73d.js?ver=3.15.3'
+    <script src='wp-content/plugins/elementor/assets/js/frontend.minb73d.js?ver=3.15.3'
         id='elementor-frontend-js'></script>
-    <script src='../../wp-content/plugins/elementor-pro/assets/js/elements-handlers.min2e9d.js?ver=3.13.2'
+    <script src='wp-content/plugins/elementor-pro/assets/js/elements-handlers.min2e9d.js?ver=3.13.2'
         id='pro-elements-handlers-js'></script>
 
 </body>
 
-<!-- Mirrored from tykit.rometheme.pro/taxation/template-kit/faqs/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 00:18:06 GMT -->
+<!-- Mirrored from tykit.rometheme.pro/taxation/template-kit/contact/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Aug 2023 00:18:23 GMT -->
 
 </html>

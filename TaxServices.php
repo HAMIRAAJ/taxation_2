@@ -22,9 +22,9 @@
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <title>Tax Services &#8211; Taxation</title>
     <meta name='robots' content='max-image-preview:large' />
-    <link rel="alternate" type="application/rss+xml" title="Taxation &raquo; Feed" href="../../../../feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Taxation &raquo; Feed" href="feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="Taxation &raquo; Comments Feed"
-        href="../../../../comments/feed/index.html" />
+        href="comments/feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="Taxation &raquo; How to Survive an IRS Audit Comments Feed"
         href="feed/index.html" />
     <script>
@@ -58,7 +58,7 @@
         }
     </style>
     <link rel='stylesheet' id='wp-block-library-css'
-        href='../../../../wp-includes/css/dist/block-library/style.minf801.css?ver=6.3' media='all' />
+        href='wp-includes/css/dist/block-library/style.minf801.css?ver=6.3' media='all' />
     <style id='classic-theme-styles-inline-css'>
         /*! This file is auto-generated */
         .wp-block-button__link {
@@ -444,61 +444,61 @@
         }
     </style>
     <link rel='stylesheet' id='template-kit-export-css'
-        href='../../../../wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min365c.css?ver=1.0.21'
+        href='wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min365c.css?ver=1.0.21'
         media='all' />
     <link rel='stylesheet' id='hello-elementor-css'
-        href='../../../../wp-content/themes/hello-elementor/style.min1102.css?ver=2.8.1' media='all' />
+        href='wp-content/themes/hello-elementor/style.min1102.css?ver=2.8.1' media='all' />
     <link rel='stylesheet' id='hello-elementor-theme-style-css'
-        href='../../../../wp-content/themes/hello-elementor/theme.min1102.css?ver=2.8.1' media='all' />
+        href='wp-content/themes/hello-elementor/theme.min1102.css?ver=2.8.1' media='all' />
     <link rel='stylesheet' id='elementor-frontend-css'
-        href='../../../../wp-content/plugins/elementor/assets/css/frontend-lite.minb73d.css?ver=3.15.3' media='all' />
+        href='wp-content/plugins/elementor/assets/css/frontend-lite.minb73d.css?ver=3.15.3' media='all' />
     <link rel='stylesheet' id='elementor-post-4-css'
-        href='../../../../wp-content/uploads/sites/107/elementor/css/post-4a3f9.css?ver=1687814847' media='all' />
+        href='wp-content/uploads/sites/107/elementor/css/post-4a3f9.css?ver=1687814847' media='all' />
     <link rel='stylesheet' id='elementor-post-413-css'
         href='wp-content/uploads/sites/107/elementor/css/post-413a3f9.css?ver=1687814847' media='all' />
     <link rel='stylesheet' id='elementor-icons-css'
-        href='../../../../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind618.css?ver=5.21.0'
+        href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind618.css?ver=5.21.0'
         media='all' />
     <link rel='stylesheet' id='swiper-css'
-        href='../../../../wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6'
+        href='wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6'
         media='all' />
     <link rel='stylesheet' id='elementor-pro-css'
-        href='../../../../wp-content/plugins/elementor-pro/assets/css/frontend-lite.min2e9d.css?ver=3.13.2'
+        href='wp-content/plugins/elementor-pro/assets/css/frontend-lite.min2e9d.css?ver=3.13.2'
         media='all' />
     <link rel='stylesheet' id='elementor-post-471-css'
-        href='../../../../wp-content/uploads/sites/107/elementor/css/post-471a3f9.css?ver=1687814847' media='all' />
+        href='wp-content/uploads/sites/107/elementor/css/post-471a3f9.css?ver=1687814847' media='all' />
     <link rel='stylesheet' id='elementor-post-429-css'
-        href='../../../../wp-content/uploads/sites/107/elementor/css/post-429a3f9.css?ver=1687814847' media='all' />
+        href='wp-content/uploads/sites/107/elementor/css/post-429a3f9.css?ver=1687814847' media='all' />
     <link rel='stylesheet' id='elementor-post-576-css'
-        href='../../../../wp-content/uploads/sites/107/elementor/css/post-5764ef0.css?ver=1688067033' media='all' />
+        href='wp-content/uploads/sites/107/elementor/css/post-5764ef0.css?ver=1688067033' media='all' />
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.3'
         media='all' />
     <link rel='stylesheet' id='elementor-icons-shared-0-css'
-        href='../../../../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
+        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='../../../../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
+        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
         media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='../../../../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
+        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
         media='all' />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <script src='../../../../wp-includes/js/jquery/jquery.min3088.js?ver=3.7.0' id='jquery-core-js'></script>
-    <script src='../../../../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1' id='jquery-migrate-js'></script>
+    <script src='wp-includes/js/jquery/jquery.min3088.js?ver=3.7.0' id='jquery-core-js'></script>
+    <script src='wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1' id='jquery-migrate-js'></script>
     <script
-        src='../../../../wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min365c.js?ver=1.0.21'
+        src='wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min365c.js?ver=1.0.21'
         id='template-kit-export-js'></script>
-    <link rel="https://api.w.org/" href="../../../../wp-json/index.html" />
-    <link rel="alternate" type="application/json" href="../../../../wp-json/wp/v2/posts/404.json" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../../xmlrpc0db0.php?rsd" />
+    <link rel="https://api.w.org/" href="wp-json/index.html" />
+    <link rel="alternate" type="application/json" href="wp-json/wp/v2/posts/404.json" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
     <meta name="generator" content="WordPress 6.3" />
     <link rel="canonical" href="index.html" />
-    <link rel='shortlink' href='../../../../indexd8bc.html?p=404' />
+    <link rel='shortlink' href='indexd8bc.html?p=404' />
     <link rel="alternate" type="application/json+oembed"
-        href="../../../../wp-json/oembed/1.0/embed7ef0.json?url=https%3A%2F%2Ftykit.rometheme.pro%2Ftaxation%2F2023%2F03%2F06%2Fhow-to-survive-an-irs-audit%2F" />
+        href="wp-json/oembed/1.0/embed7ef0.json?url=https%3A%2F%2Ftykit.rometheme.pro%2Ftaxation%2F2023%2F03%2F06%2Fhow-to-survive-an-irs-audit%2F" />
     <link rel="alternate" type="text/xml+oembed"
-        href="../../../../wp-json/oembed/1.0/embede409?url=https%3A%2F%2Ftykit.rometheme.pro%2Ftaxation%2F2023%2F03%2F06%2Fhow-to-survive-an-irs-audit%2F&amp;format=xml" />
+        href="wp-json/oembed/1.0/embede409?url=https%3A%2F%2Ftykit.rometheme.pro%2Ftaxation%2F2023%2F03%2F06%2Fhow-to-survive-an-irs-audit%2F&amp;format=xml" />
     <meta name="description"
         content="Nunc ante ipsum, elementum eget leo tempor, convallis tincidunt sapien. Integer ullamcorper, lorem in sagittis mollis, nisl eros interdum lacus, et rutrum ligula odio eu erat. Etiam mattis libero sollicitudin urna lobortis tincidunt. Etiam eu tempor turpis, in luctus augue. Vestibulum in consequat ex. Mauris vitae consequat tellus. Pellentesque et risus at eros mattis blandit. Sed eu eros sit amet massa dictum molestie vitae ac felis. Integer eget enim eu velit ullamcorper pretium. Maecenas in fringilla tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In hac habitasse platea dictumst.">
     <meta name="generator"
@@ -558,7 +558,7 @@
                             data-widget_type="nav-menu.default">
                             <div class="elementor-widget-container">
                                 <link rel="stylesheet"
-                                    href="../../../../wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">
+                                    href="wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">
                                 <nav
                                     class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
                                     <ul id="menu-1-efc9684" class="elementor-nav-menu">
@@ -572,18 +572,18 @@
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="TaxServices.html" class="elementor-item">Tax Services</a>
+                                            <a href="TaxServices.php" class="elementor-item">Tax Services</a>
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="ClientTestimony.html" class="elementor-item">Client Testimony</a>
+                                            <a href="ClientTestimony.php" class="elementor-item">Client Testimony</a>
                                         </li>
 
 
 
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-469">
-                                            <a href="Contact.html" class="elementor-item">Contact Us</a>
+                                            <a href="Contact.php" class="elementor-item">Contact Us</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -604,12 +604,12 @@
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-458">
-                                            <a href="ClientTestimony.html" class="elementor-item" tabindex="-1">Client
+                                            <a href="ClientTestimony.php" class="elementor-item" tabindex="-1">Client
                                                 Testimony</a>
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="TaxServices.html" class="elementor-item" tabindex="-1">Tax
+                                            <a href="TaxServices.php" class="elementor-item" tabindex="-1">Tax
                                                 Services</a>
                                         </li>
                                         <li
@@ -618,7 +618,7 @@
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="Contact.html" class="elementor-item" tabindex="-1">Contact Us</a>
+                                            <a href="Contact.php" class="elementor-item" tabindex="-1">Contact Us</a>
                                         </li>
 
                                     </ul>
@@ -1490,7 +1490,7 @@
                                 <!-- 
                                 <figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high"
                                         width="1024" height="683"
-                                        src="../../../../wp-content/uploads/sites/107/2023/02/three-smiling-business-colleagues-talking-in-moder-2022-02-02-06-34-12-utc-1024x683.jpg"
+                                        src="wp-content/uploads/sites/107/2023/02/three-smiling-business-colleagues-talking-in-moder-2022-02-02-06-34-12-utc-1024x683.jpg"
                                         alt="" class="wp-image-351"
                                         srcset="https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/three-smiling-business-colleagues-talking-in-moder-2022-02-02-06-34-12-utc-1024x683.jpg 1024w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/three-smiling-business-colleagues-talking-in-moder-2022-02-02-06-34-12-utc-300x200.jpg 300w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/three-smiling-business-colleagues-talking-in-moder-2022-02-02-06-34-12-utc-768x512.jpg 768w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/three-smiling-business-colleagues-talking-in-moder-2022-02-02-06-34-12-utc-1536x1024.jpg 1536w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/three-smiling-business-colleagues-talking-in-moder-2022-02-02-06-34-12-utc-800x533.jpg 800w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/three-smiling-business-colleagues-talking-in-moder-2022-02-02-06-34-12-utc.jpg 1920w"
                                         sizes="(max-width: 1024px) 100vw, 1024px" /></figure> -->
@@ -1628,7 +1628,7 @@
                                     <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
                                         <figure class="wp-block-image size-large"><img decoding="async" width="1024"
                                                 height="683"
-                                                src="../../../../wp-content/uploads/sites/107/2023/02/smiling-business-colleagues-applauding-in-the-offi-2022-11-23-22-31-45-utc-1024x683.jpg"
+                                                src="wp-content/uploads/sites/107/2023/02/smiling-business-colleagues-applauding-in-the-offi-2022-11-23-22-31-45-utc-1024x683.jpg"
                                                 alt="" class="wp-image-365"
                                                 srcset="https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/smiling-business-colleagues-applauding-in-the-offi-2022-11-23-22-31-45-utc-1024x683.jpg 1024w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/smiling-business-colleagues-applauding-in-the-offi-2022-11-23-22-31-45-utc-300x200.jpg 300w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/smiling-business-colleagues-applauding-in-the-offi-2022-11-23-22-31-45-utc-768x512.jpg 768w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/smiling-business-colleagues-applauding-in-the-offi-2022-11-23-22-31-45-utc-1536x1024.jpg 1536w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/smiling-business-colleagues-applauding-in-the-offi-2022-11-23-22-31-45-utc-800x533.jpg 800w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/smiling-business-colleagues-applauding-in-the-offi-2022-11-23-22-31-45-utc.jpg 1920w"
                                                 sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
@@ -1639,7 +1639,7 @@
                                     <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
                                         <figure class="wp-block-image size-large"><img decoding="async" width="1024"
                                                 height="683"
-                                                src="../../../../wp-content/uploads/sites/107/2023/02/couple-buying-new-apartment-house-agent-showing-d-2022-12-16-09-12-30-utc-1024x683.jpg"
+                                                src="wp-content/uploads/sites/107/2023/02/couple-buying-new-apartment-house-agent-showing-d-2022-12-16-09-12-30-utc-1024x683.jpg"
                                                 alt="" class="wp-image-355"
                                                 srcset="https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/couple-buying-new-apartment-house-agent-showing-d-2022-12-16-09-12-30-utc-1024x683.jpg 1024w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/couple-buying-new-apartment-house-agent-showing-d-2022-12-16-09-12-30-utc-300x200.jpg 300w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/couple-buying-new-apartment-house-agent-showing-d-2022-12-16-09-12-30-utc-768x512.jpg 768w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/couple-buying-new-apartment-house-agent-showing-d-2022-12-16-09-12-30-utc-1536x1024.jpg 1536w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/couple-buying-new-apartment-house-agent-showing-d-2022-12-16-09-12-30-utc-800x533.jpg 800w, https://tykit.rometheme.pro/taxation/wp-content/uploads/sites/107/2023/02/couple-buying-new-apartment-house-agent-showing-d-2022-12-16-09-12-30-utc.jpg 1920w"
                                                 sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
@@ -1670,7 +1670,7 @@
                             data-widget_type="post-comments.theme_comments">
                             <div class="elementor-widget-container">
                                 <link rel="stylesheet"
-                                    href="../../../../wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">
+                                    href="wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">
                                 <section id="comments" class="comments-area">
 
 
@@ -1690,7 +1690,7 @@
                                                     required></textarea></p>
                                             <p class="comment-form-author"><label for="author">Name <span
                                                         class="required">*</span></label> <input id="author"
-                                                    name="author" type="text" value="" size="30" maxlength="245"
+                                                    name="name" type="text" value="" size="30" maxlength="245"
                                                     autocomplete="name" required /></p>
                                             <p class="comment-form-email"><label for="email">Email <span
                                                         class="required">*</span></label> <input id="email" name="email"
@@ -1725,7 +1725,7 @@
                             data-id="7c64d73" data-element_type="widget" data-widget_type="post-info.default">
                             <div class="elementor-widget-container">
                                 <link rel="stylesheet"
-                                    href="../../../../wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
+                                    href="wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
                                 <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
                                     <li class="elementor-icon-list-item elementor-repeater-item-0d94766 elementor-inline-item"
                                         itemprop="author">
@@ -2105,7 +2105,7 @@
                             data-id="adce05c" data-element_type="widget" data-widget_type="share-buttons.default">
                             <div class="elementor-widget-container">
                                 <link rel="stylesheet"
-                                    href="../../../../wp-content/plugins/elementor-pro/assets/css/widget-share-buttons.min.css">
+                                    href="wp-content/plugins/elementor-pro/assets/css/widget-share-buttons.min.css">
                                 <div class="elementor-grid">
                                     <div class="elementor-grid-item">
                                         <div class="elementor-share-btn elementor-share-btn_facebook" role="button"
@@ -2221,19 +2221,19 @@
                                                         <span class="elementor-icon-list-icon">
                                                             <i aria-hidden="true" class="fas fa-check"></i> </span>
                                                         <span class="elementor-icon-list-text"><a
-                                                                href="TaxServices.html">Tax Services</a></span>
+                                                                href="TaxServices.php">Tax Services</a></span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                         <span class="elementor-icon-list-icon">
                                                             <i aria-hidden="true" class="fas fa-check"></i> </span>
                                                         <span class="elementor-icon-list-text"><a
-                                                                href="ClientTestimony.html">Client Testimony</a></span>
+                                                                href="ClientTestimony.php">Client Testimony</a></span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                         <span class="elementor-icon-list-icon">
                                                             <i aria-hidden="true" class="fas fa-check"></i> </span>
                                                         <span class="elementor-icon-list-text"><a
-                                                                href="Contact.html">Contact Us</a></span>
+                                                                href="Contact.php">Contact Us</a></span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -2706,7 +2706,7 @@
     </footer>
 
     <link rel='stylesheet' id='elementor-icons-fa-regular-css'
-        href='../../../../wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3'
+        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3'
         media='all' />
     <style id='core-block-supports-inline-css'>
         .wp-container-3.wp-container-3 {
@@ -2714,27 +2714,27 @@
         }
     </style>
     <link rel='stylesheet' id='e-animations-css'
-        href='../../../../wp-content/plugins/elementor/assets/lib/animations/animations.minb73d.css?ver=3.15.3'
+        href='wp-content/plugins/elementor/assets/lib/animations/animations.minb73d.css?ver=3.15.3'
         media='all' />
-    <script src='../../../../wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0'
+    <script src='wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0'
         id='hello-theme-frontend-js'></script>
     <script
-        src='../../../../wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1'
+        src='wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1'
         id='smartmenus-js'></script>
-    <script src='../../../../wp-includes/js/comment-reply.minf801.js?ver=6.3' id='comment-reply-js'></script>
-    <script src='../../../../wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min2e9d.js?ver=3.13.2'
+    <script src='wp-includes/js/comment-reply.minf801.js?ver=6.3' id='comment-reply-js'></script>
+    <script src='wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min2e9d.js?ver=3.13.2'
         id='elementor-pro-webpack-runtime-js'></script>
-    <script src='../../../../wp-content/plugins/elementor/assets/js/webpack.runtime.minb73d.js?ver=3.15.3'
+    <script src='wp-content/plugins/elementor/assets/js/webpack.runtime.minb73d.js?ver=3.15.3'
         id='elementor-webpack-runtime-js'></script>
-    <script src='../../../../wp-content/plugins/elementor/assets/js/frontend-modules.minb73d.js?ver=3.15.3'
+    <script src='wp-content/plugins/elementor/assets/js/frontend-modules.minb73d.js?ver=3.15.3'
         id='elementor-frontend-modules-js'></script>
-    <script src='../../../../wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2'
+    <script src='wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2'
         id='wp-polyfill-inert-js'></script>
-    <script src='../../../../wp-includes/js/dist/vendor/regenerator-runtime.min8fa4.js?ver=0.13.11'
+    <script src='wp-includes/js/dist/vendor/regenerator-runtime.min8fa4.js?ver=0.13.11'
         id='regenerator-runtime-js'></script>
-    <script src='../../../../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
-    <script src='../../../../wp-includes/js/dist/hooks.min2ebd.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
-    <script src='../../../../wp-includes/js/dist/i18n.minf92f.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'></script>
+    <script src='wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
+    <script src='wp-includes/js/dist/hooks.min2ebd.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
+    <script src='wp-includes/js/dist/i18n.minf92f.js?ver=7701b0c3857f914212ef' id='wp-i18n-js'></script>
     <script id="wp-i18n-js-after">
         wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
     </script>
@@ -2744,20 +2744,20 @@
             "facebook_sdk": { "lang": "en_US", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/tykit.rometheme.pro\/taxation\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" }
         };
     </script>
-    <script src='../../../../wp-content/plugins/elementor-pro/assets/js/frontend.min2e9d.js?ver=3.13.2'
+    <script src='wp-content/plugins/elementor-pro/assets/js/frontend.min2e9d.js?ver=3.13.2'
         id='elementor-pro-frontend-js'></script>
-    <script src='../../../../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'
+    <script src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'
         id='elementor-waypoints-js'></script>
-    <script src='../../../../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+    <script src='wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
     <script id="elementor-frontend-js-before">
         var elementorFrontendConfig = {
             "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselWrapperAriaLabel": "Carousel | Horizontal scrolling: Arrow Left & Right", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } } },
             "version": "3.15.3", "is_static": false, "experimentalFeatures": { "e_dom_optimization": true, "e_optimized_assets_loading": true, "e_optimized_css_loading": true, "additional_custom_breakpoints": true, "theme_builder_v2": true, "hello-theme-header-footer": true, "landing-pages": true, "page-transitions": true, "notes": true, "loop": true, "form-submissions": true, "e_scroll_snap": true }, "urls": { "assets": "https:\/\/tykit.rometheme.pro\/taxation\/wp-content\/plugins\/elementor\/assets\/" }, "swiperClass": "swiper-container", "settings": { "page": [], "editorPreferences": [] }, "kit": { "body_background_background": "classic", "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description", "hello_header_logo_type": "logo", "hello_header_menu_layout": "horizontal", "hello_footer_logo_type": "logo" }, "post": { "id": 404, "title": "How%20to%20Survive%20an%20IRS%20Audit%20%E2%80%93%20Taxation", "excerpt": "Nunc ante ipsum, elementum eget leo tempor, convallis tincidunt sapien. Integer ullamcorper, lorem in sagittis mollis, nisl eros interdum lacus, et rutrum ligula odio eu erat. Etiam mattis libero sollicitudin urna lobortis tincidunt. Etiam eu tempor turpis, in luctus augue. Vestibulum in consequat ex. Mauris vitae consequat tellus. Pellentesque et risus at eros mattis blandit. Sed eu eros sit amet massa dictum molestie vitae ac felis. Integer eget enim eu velit ullamcorper pretium. Maecenas in fringilla tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In hac habitasse platea dictumst.", "featuredImage": "https:\/\/tykit.rometheme.pro\/taxation\/wp-content\/uploads\/sites\/107\/2023\/02\/three-smiling-business-colleagues-talking-in-moder-2022-02-02-06-34-12-utc-1024x683.jpg" }
         };
     </script>
-    <script src='../../../../wp-content/plugins/elementor/assets/js/frontend.minb73d.js?ver=3.15.3'
+    <script src='wp-content/plugins/elementor/assets/js/frontend.minb73d.js?ver=3.15.3'
         id='elementor-frontend-js'></script>
-    <script src='../../../../wp-content/plugins/elementor-pro/assets/js/elements-handlers.min2e9d.js?ver=3.13.2'
+    <script src='wp-content/plugins/elementor-pro/assets/js/elements-handlers.min2e9d.js?ver=3.13.2'
         id='pro-elements-handlers-js'></script>
 
 </body>
