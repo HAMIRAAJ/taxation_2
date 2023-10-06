@@ -553,11 +553,11 @@
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="TaxServices.php" class="elementor-item">Tax Services</a>
+                                            <a href="TaxServices.html" class="elementor-item">Tax Services</a>
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="ClientTestimony.php" class="elementor-item">Client Testimony</a>
+                                            <a href="ClientTestimony.html" class="elementor-item">Client Testimony</a>
                                         </li>
 
 
@@ -592,12 +592,12 @@
 
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="TaxServices.php" class="elementor-item" tabindex="-1">Tax
+                                            <a href="TaxServices.html" class="elementor-item" tabindex="-1">Tax
                                                 Services</a>
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-458">
-                                            <a href="ClientTestimony.php" class="elementor-item" tabindex="-1">Client
+                                            <a href="ClientTestimony.html" class="elementor-item" tabindex="-1">Client
                                                 Testimony</a>
                                         </li>
 
@@ -1133,12 +1133,12 @@ include  'conn.php';
 													<li class="elementor-icon-list-item">
 														<span class="elementor-icon-list-icon">
 															<i aria-hidden="true" class="fas fa-check"></i> </span>
-														<span class="elementor-icon-list-text"><a href="TaxServices.php">Tax Services</a></span>
+														<span class="elementor-icon-list-text"><a href="TaxServices.html">Tax Services</a></span>
 													</li>
 													<li class="elementor-icon-list-item">
 														<span class="elementor-icon-list-icon">
 															<i aria-hidden="true" class="fas fa-check"></i> </span>
-														<span class="elementor-icon-list-text"><a href="ClientTestimony.php">Client Testimony</a></span>
+														<span class="elementor-icon-list-text"><a href="ClientTestimony.html">Client Testimony</a></span>
 													</li>
 													<li class="elementor-icon-list-item">
 														<span class="elementor-icon-list-icon">

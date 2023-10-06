@@ -548,7 +548,7 @@
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="TaxServices.php" class="elementor-item">Tax Services</a>
+                                            <a href="TaxServices.html" class="elementor-item">Tax Services</a>
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
@@ -559,7 +559,7 @@
 
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-469">
-                                            <a href="Contact.php" class="elementor-item">Contact Us</a>
+                                            <a href="Contact.html" class="elementor-item">Contact Us</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -587,7 +587,7 @@
 
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="TaxServices.php" class="elementor-item" tabindex="-1">Tax
+                                            <a href="TaxServices.html" class="elementor-item" tabindex="-1">Tax
                                                 Services</a>
                                         </li>
                                         <li
@@ -598,7 +598,7 @@
 
                                         <li
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459">
-                                            <a href="Contact.php" class="elementor-item" tabindex="-1">Contact Us</a>
+                                            <a href="Contact.html" class="elementor-item" tabindex="-1">Contact Us</a>
                                         </li>
 
                                     </ul>
@@ -1300,7 +1300,7 @@
                                                         <span class="elementor-icon-list-icon">
                                                             <i aria-hidden="true" class="fas fa-check"></i> </span>
                                                         <span class="elementor-icon-list-text"><a
-                                                                href="TaxServices.php">Tax Services</a></span>
+                                                                href="TaxServices.html">Tax Services</a></span>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
                                                         <span class="elementor-icon-list-icon">
@@ -1312,7 +1312,7 @@
                                                         <span class="elementor-icon-list-icon">
                                                             <i aria-hidden="true" class="fas fa-check"></i> </span>
                                                         <span class="elementor-icon-list-text"><a
-                                                                href="Contact.php">Contact Us</a></span>
+                                                                href="Contact.html">Contact Us</a></span>
                                                     </li>
                                                 </ul>
                                             </div>
