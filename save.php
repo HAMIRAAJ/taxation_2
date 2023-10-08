@@ -1,4 +1,5 @@
 <?php
+session_start();
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -45,7 +46,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Send the email
     if ($mail->send()) {
         // echo 'Email sent successfully!';
-        header("Location: http://localhost/taxation/contact.html");
+        header("Location: http://localhost/taxation/email_success.html");
     } else {
         echo 'Error: Unable to send email. ' . $mail->ErrorInfo;
     }
